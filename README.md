@@ -2,7 +2,9 @@
 
 ## Exia
 
-**在 Cloudflare 边缘上手写一个博客系统。没有框架，没有服务器，没有备案。**
+**在 Cloudflare Workers 上手写博客系统。写踩坑记录，不写二手教程。**
+
+<sub>没有框架，没有服务器，没有备案。</sub>
 
 [博客](https://exia.de5.net/) · [全部文章](https://exia.de5.net/archive) · [RSS](https://exia.de5.net/rss.xml) · [关于](https://exia.de5.net/about)
 
